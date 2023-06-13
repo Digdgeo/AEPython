@@ -42,7 +42,7 @@ Finalmente, comenzamos a ver Rasterio y creamos nuestro primer índice NDVI desd
 Notebooks:
 
 [Python Classes](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Python_Clasess.ipynb)   
-[Clase Landsat](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Clase_Landsat.ipynb) 
+[Clase Landsat](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Clase_Landsat.ipynb)     
 [Numpy Arrays](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Intro_to_Numpy_Arrays.ipynb)     
 [Introducción a Rasterio](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Intro_to_Rasterio.ipynb)   
 
