@@ -35,6 +35,17 @@ Y, como siempre ha sido, hemos terminado creando un script con el que jugar al j
 
 # Día 2: Teledetección y Análisis Raster
 
+En el segundo día del curso hemos visto una introducción a las clases en Python en primer lugar, para crear luego una clase Landsat soobre la que iremos trabajando en los próximos días para añadirle nuevos métodos y atributos.
+Hemos visto también una breve introduccióna a la teledetección y a los Numpy Arrays que son la base para trabajar con datos raster (bandas de Landsat en nuestro caso) en Rasterio.   
+Finalmente, comenzamos a ver Rasterio y creamos nuestro primer índice NDVI desde Python.
+
+[Enlace al notebook de Introuddción a las clases en Python]()
+[Enlace al notebook de la Clase Landsat]()
+[Enlace al notebook de Introducción a Numpy]()
+[Enlace al notebook de Introducción a Rasterio]()
+
+![](https://i.imgur.com/BxfFDfd.jpg)
+
 # Día 3: Teledetección, Análisis Raster y Análisis Vectorial
 # Día 4: Análisis Vectorial 
 # Día 5: Geemap
