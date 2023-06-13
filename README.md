@@ -39,10 +39,12 @@ En el segundo día del curso hemos visto una introducción a las clases en Pytho
 Hemos visto también una breve introduccióna a la teledetección y a los Numpy Arrays que son la base para trabajar con datos raster (bandas de Landsat en nuestro caso) en Rasterio.   
 Finalmente, comenzamos a ver Rasterio y creamos nuestro primer índice NDVI desde Python.
 
-[Enlace al notebook de Introuddción a las clases en Python](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Python_Clasess.ipynb)   
-[Enlace al notebook de la Clase Landsat](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Clase_Landsat.ipynb)   
-[Enlace al notebook de Introducción a Numpy](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/   Intro_to_Numpy_Arrays.ipynb)   
-[Enlace al notebook de Introducción a Rasterio](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Intro_to_Rasterio.ipynb)   
+Notebooks:
+
+[Python Classes](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Python_Clasess.ipynb)   
+[Clase Landsat](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Clase_Landsat.ipynb) 
+[Numpy Arrays](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Intro_to_Numpy_Arrays.ipynb)     
+[Introducción a Rasterio](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%202/Intro_to_Rasterio.ipynb)   
 
 ![](https://i.imgur.com/BxfFDfd.jpg)
 
