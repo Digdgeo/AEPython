@@ -48,6 +48,14 @@ Notebooks:
 
 ![](https://i.imgur.com/BxfFDfd.jpg)
 
-# Día 3: Teledetección, Análisis Raster y Análisis Vectorial
+# Día 3: Teledetección y Análisis Raster
+
+Hemos ido avanzando (más despacio) en el análisis de imágenes de satélite y en nuestra clase Landsat en la que hemos introducido 2 métodos para calcular el NDVI y la Inundación. También hemos visto como aplicar una máscara de nubes a los productos obtenidos
+Finalmente, hemos añadido otro método para aplicar los coeficientes para obtener los valores correctos d reflectividad de las bandas. 
+
+[Enlace al notebook con la clase Landsat completa](https://github.com/Digdgeo/AEPython/blob/main/Dia1/Day1_Completo.ipynb)
+
+![](https://i.imgur.com/qg9QHlN.png)
+
 # Día 4: Análisis Vectorial 
 # Día 5: Geemap
