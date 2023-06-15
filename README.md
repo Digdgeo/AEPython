@@ -58,4 +58,12 @@ Finalmente, hemos añadido otro método para aplicar los coeficientes para obten
 ![](https://i.imgur.com/qg9QHlN.png)
 
 # Día 4: Análisis Vectorial 
+
+En el cuarto día (que ha ido regulinchis :_()) hemos visto una introducción a las librerías Shapely y Geopandas, y hemos estado jugando con las geometrías y los GeoDataFrames. También hemos visto como leer y escribir archivos shapefile a distintos y como plotear los GeoDataframes directamente en el entorno de Jupyter.
+
+[Enlace al notebook del día 4]()
+
+![](https://i.imgur.com/lxGJ9yD.jpg)
+
+
 # Día 5: Geemap
