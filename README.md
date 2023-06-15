@@ -61,7 +61,7 @@ Finalmente, hemos añadido otro método para aplicar los coeficientes para obten
 
 En el cuarto día (que ha ido regulinchis :_()) hemos visto una introducción a las librerías Shapely y Geopandas, y hemos estado jugando con las geometrías y los GeoDataFrames. También hemos visto como leer y escribir disintos tipos de archivos espaciales y como plotear los GeoDataframes directamente en el entorno de Jupyter en un mapa de Folium.
 
-[Enlace al notebook del día 4](https://github.com/Digdgeo/AEPython/blob/main/Dia4/Dia4_completo.ipynb)
+[Enlace al notebook del día 4](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%204/Dia_4_completo.ipynb)
 
 ![](https://i.imgur.com/lxGJ9yD.jpg)
 
