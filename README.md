@@ -67,3 +67,15 @@ En el cuarto día (que ha ido regulinchis :_()) hemos visto una introducción a 
 
 
 # Día 5: Geemap
+
+Sobrevivimos al final del curso más o menos bien. La primera mitad del día consisitó en repasar la clase del día anterior sobre operaciones vectoriales a las cuales se añadieron Spatial Join, Sampling points vector to raster, clip geometries y raster mask with polygons.   
+También se vieron algunos ejemplos de la librería [osmnx](https://pypi.org/project/osmnx/) y terminamos el día y el curso curso aprendiendo un poco sobre [geemap](https://geemap.org/) y [ndvi2gif](https://pypi.org/project/ndvi2gif/). 
+
+Notebooks:
+
+[Análisis Vectorial Día 5](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%205/Dia_5_Vectorial.ipynb)   
+[OSMNX](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%205/osmnx_aep.ipynb)     
+[Geemap](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%205/SDM_geemap_course_day4.ipynb)     
+[Ndvi2Gif](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%205/ndvi2gif.ipynb) 
+
+![](https://i.imgur.com/GVyBwx1.jpg)
