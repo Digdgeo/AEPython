@@ -79,3 +79,16 @@ Notebooks:
 [Ndvi2Gif](https://github.com/Digdgeo/AEPython/blob/main/D%C3%ADa%205/ndvi2gif.ipynb) 
 
 ![](https://i.imgur.com/GVyBwx1.jpg)
+
+
+# Last Comments
+
+A pesar de haber sido la primera edición y haber detectado varias cosas a corregir, hemos visto una introducción a Python y a el entorno de Jupyter, y hemos aprendido a trabajar con datos espaciales y a realizar análisis vectoriales y raster. La creación de la clase Landsat puede ser el punto de partida para muchos casos similares, cambiando tan solo breves fragmentos de código para adaptarlo a vuestras necesidades.
+
+Sobre los datos vectoriales hemos visto como realizar con Python la mayoría de operaciones de Geoproceso que se suelen hacer en un GIS de escritorio, y sobre todo lo importante creo que es, el entender que hay detrás de esos datos, que no es más que la columna Geometry que hemos visto en mucho ejemplos con Shapely.
+
+La presentación está en pdf en el repositorio y en [este enlace](https://slides.com/diegogarciadiaz/deck-9c545b/fullscreen) podéis encontrar la versión web, que es más completa ya que mantiene todo el html y los iframes que se pierden al pasarla a pdf.
+
+Espero que os haya servido como una primera introducción a Geo-Python y que os pueda servir de algo en vuestro trabajo. Un placer haber compartido el curso con vosotros!
+
+
